@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "mytargetnetapi",
+            "location": "West Europe"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "mytargetnetapi_db",
+                "serverName": "mytargetnet",
+                "user": "arbor",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "West Europe"
+            }
+        ]
+    }
+}
