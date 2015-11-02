@@ -33,9 +33,7 @@
     "paper-card": "PolymerElements/paper-card#1.0.0",
     "paper-input": "PolymerElements/paper-input#1.0.0",
     "angular-loading-bar": "~0.8.0",
-    "paper-header-panel": "PolymerElements/paper-header-panel#1.0.5"
-  },
-  "devDependencies": {
+    "paper-header-panel": "PolymerElements/paper-header-panel#1.0.5",
     "font-awesome": "~4.4.0",
     "angular-bootstrap": "~0.14.1",
     "angular-messages": "~1.4.7"

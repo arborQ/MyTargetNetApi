@@ -108,3 +108,8 @@ gulp.task('watchJson', ['locale'], function () {
 //TODO: move to separated watchers
 gulp.task('watch', ['watchLess', 'watchTs', 'watchJade', 'watchJson'], function () {
 });
+
+
+gulp.tasks('build', function() {
+    
+});
