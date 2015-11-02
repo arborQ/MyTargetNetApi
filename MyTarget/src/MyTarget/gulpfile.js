@@ -1,14 +1,14 @@
 ﻿var
 gulp = require('gulp'),
 ts = require('gulp-typescript'),
-less = require('gulp-less')
-group = require('gulp-group-files')
-concat = require('gulp-concat')
-ngAnnotate = require('gulp-ng-annotate')
-jade = require('gulp-jade')
-gulpIf = require('gulp-if')
-minJs = require('gulp-uglify')
-minCss = require('gulp-minify-css')
+less = require('gulp-less'),
+group = require('gulp-group-files'),
+concat = require('gulp-concat'),
+ngAnnotate = require('gulp-ng-annotate'),
+jade = require('gulp-jade'),
+gulpIf = require('gulp-if'),
+minJs = require('gulp-uglify'),
+minCss = require('gulp-minify-css'),
 flat = require('gulp-flatten'),
 jsonMin = require('gulp-jsonmin'),
 rename = require('gulp-rename'),
