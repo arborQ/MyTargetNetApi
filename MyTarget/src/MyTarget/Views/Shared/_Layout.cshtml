@@ -6,7 +6,10 @@
     <title>@ViewData["Title"] - MyTarget</title>
 </head>
 <body>
-    @RenderBody();
+    @RenderBody()
+    <script src="~/lib/react/react.js"></script>
+    <script src="~/lib/react/react-dom.js"></script>
+    <script src="~/bundle.js" asp-file-version="true"></script>
     @RenderSection("scripts", required: false)
 </body>
 </html>
